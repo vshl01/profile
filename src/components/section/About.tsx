@@ -2,8 +2,6 @@ import { motion } from "framer-motion";
 import {
   FaReact,
   FaNodeJs,
-  FaHtml5,
-  FaCss3Alt,
   FaGitAlt,
   FaDocker,
   FaPython,
